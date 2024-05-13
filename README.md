@@ -38,9 +38,11 @@ Beyond the NumPy and Pandas notebooks, explore notebooks from other courses incl
 
 [IBM Data Analysis with Python](https://github.com/Lala2398/Python_path/tree/main/IBM_Data_analysiswithPython) 
 
+
 ### Projects 
 
 Dive deeper into my data analysis journey with these projects : 
+
 [Gamboo Projects : Python tasks for Data Analysis Tasks](https://github.com/Lala2398/Python_path/tree/main/Gamboo_projects) 
 
 
