@@ -34,6 +34,7 @@ The data folder may contain various file formats (e.g., CSV, Excel).
 ### Notebooks from Other courses 
 
 Beyond the NumPy and Pandas notebooks, explore notebooks from other courses included in this repository : 
+
 [Python 101 IBM](https://github.com/Lala2398/Python_path/tree/main/Python101_IBM)
 
 [IBM Data Analysis with Python](https://github.com/Lala2398/Python_path/tree/main/IBM_Data_analysiswithPython) 
